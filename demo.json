@@ -1,0 +1,45 @@
+[
+    {
+        "tag": "welcome",
+        "patterns": [
+            "Hi",
+            "How are you",
+            "Is any one to talk?",
+            "Hello",
+            "hi are you available"
+        ],
+        "responses": [
+            "Hello, thanks for contacting Piford Technologies",
+            "Good to see you here",
+            "Hi there, how may I assist you?"
+        ]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "Bye",
+            "See you later",
+            "Goodbye",
+            "I will come back soon"
+        ],
+        "responses": [
+            "See you later, thanks for visiting Piford Technologies",
+            "have a great day ahead",
+            "Wish you Come back again soon."
+        ]
+    },
+    {
+        "tag": "thankful",
+        "patterns": [
+            "Thanks for helping me",
+            "Thank you for your guidance",
+            "That's helpful and kind from you"
+        ],
+        "responses": [
+            "Piford Technologies is happy to help!",
+            "Any time!",
+            "My pleasure",
+            "It is my duty to help you"
+        ]
+    }
+]
